@@ -1,0 +1,8 @@
+{
+    "author": ["DesignByAdrian (ThinkAdrian#1186)"],
+    "DESCRIPTION": "Usage: [p]clit <user>\nThis is 100% accurate.",
+    "SHORT": "Detects users' clit size with maximum accuracy.",
+    "NAME": "Clit",
+    "TAGS": ["fun"],
+    "min_bot_version": "3.5.0"
+}
